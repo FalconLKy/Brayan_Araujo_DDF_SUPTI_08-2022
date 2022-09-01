@@ -1,0 +1,13 @@
+Case 1: Vamos imaginar uma situação hipotética onde o funcionário “João” será desligado da
+Dadosfera dentro de 5 dias (por demanda de seu gestor direto). Considerando os princípios básicos
+de segurança e compliance, como e quando você procederia com a remoção de acessos? Qual seria
+a melhor maneira de alinhar sobre essa situação de desligamento com as áreas envolvidas? (DP,
+RH, Financeiro). A situação seria diferente caso o funcionário pedisse demissão? Caso sim, como
+isso iria interferir no processo?
+
+R: No primeiro caso onde o gestor decide desligar João, a remoção dos acessos seria feita minutos antes
+do desligamento, para que assim que o gestor terminasse de avisar ele sobre o desligamente ja estaria 
+com todos os acessos removidos.
+a melhor maneira de alinhar com as areas envolvolvidas, seria marcar uma reunião com os responsaveis pelo desligamento das areas juntamente com o gestor do João
+e no caso aonde João pediria demissão, a melhor forma seria conversar com o RH sobre se haveria alguma tentativa de recuperação do funcionario, caso não houvesse sucesso,
+ai sim efetuar a remoção de acessos e verificar se não ouve nenhum roubo de informação
