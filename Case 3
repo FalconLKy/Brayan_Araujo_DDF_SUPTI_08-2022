@@ -3,4 +3,8 @@ empresa. Considerando as features de MDM (master device management), SSO e user 
 seria a ordem que você habilitaria primeiro e por quê? Como seria organizado o projeto de
 implementação? E o gerenciamento?
 
-R:
+R:primeiramente viria o MDM visto que ele é o foco do projeto, em seguida viria o SSO para fazer
+o controle de acesso do sistemae por ultimo o user lifecycle tendo em vista que podem controlar
+remotamente apps e dispositivos pessoais e corporativos
+Para um bom gerenciamento deve se considerar os aspectos legais, a logística, o investimento,
+o nível de maturidade e a cultura da empresa e a segurança.
